@@ -5,7 +5,7 @@
 
 ![samueljlalves GitHub stats](https://github-readme-stats.vercel.app/api?username=samueljlalves&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -14,4 +14,4 @@
     <img align="center" alt="Html5" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
 </div><br/>
 
-Apaixonado por Tecnologia. Atualmente estou cursando Superior em ADS. Estou em busca da minha primeira experiência na area de desenvolvimento. Rumo ao FullStack. 🚀
+Passionate about Technology. I am currently studying Higher Education in ADS. I'm looking for my first experience in the development area. Towards FullStack. 🚀

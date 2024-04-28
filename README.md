@@ -1,3 +1,5 @@
+![White Minimalist Profile LinkedIn Banner](https://github.com/samueljlalves/samueljlalves/assets/156720510/0b87ca15-2e18-4338-bbb3-8ba1be8ba028)
+
 ### Olá! eu sou Samuel Alves 👋
 
 [![Linkedl](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samueljlalves/)

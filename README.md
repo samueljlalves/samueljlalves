@@ -1,10 +1,10 @@
 ![LogoTittle](https://github.com/samueljlalves/samueljlalves/assets/156720510/5c1be9c2-f13c-4646-839c-4f4087df9ccc)
 
-<div style="display: inline_block"><br/><a href="https://www.linkedin.com/in/samueljlalves/">
+<div style="display: inline_block"><br/><a href="https://www.linkedin.com/in/samueljlalves/" target="_blank">
           <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln" >
         </a>
-<a href="mailto: ( seu email )">
-          <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" >
+<a href="mailto: (samueljlalves99@hotmail.com)">
+          <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail" >
         </a>
 </div><br/>
 

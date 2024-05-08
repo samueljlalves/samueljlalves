@@ -1,4 +1,4 @@
-![LogoTittle](https://github.com/samueljlalves/samueljlalves/assets/156720510/5c1be9c2-f13c-4646-839c-4f4087df9ccc)
+![logolinkedln](https://github.com/samueljlalves/samueljlalves/assets/156720510/446d7cbd-2b15-427d-b874-7e4931759e18)
 
 <div style="display: inline_block"><br/>
           <a href="https://www.linkedin.com/in/samueljlalves/">

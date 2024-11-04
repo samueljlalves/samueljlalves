@@ -1,4 +1,4 @@
-![logolinkedln](https://github.com/samueljlalves/samueljlalves/assets/156720510/446d7cbd-2b15-427d-b874-7e4931759e18)
+[![logolinkedln](https://github.com/samueljlalves/samueljlalves/assets/156720510/446d7cbd-2b15-427d-b874-7e4931759e18)](https://github.com/samueljlalves/samueljlalves/issues/1#issue-2267877851)
 
 <div style="display: inline_block"><br/>
           <a href="https://www.linkedin.com/in/samueljlalves/">

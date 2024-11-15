@@ -1,4 +1,3 @@
-![logolinkedln](https://github.com/user-attachments/assets/226e3226-8c49-4097-a464-80eba1143424)
 ![capa](https://github.com/user-attachments/assets/2bcc69a7-7aff-4a06-a4ef-696905584115)
 
 <div style="display: inline_block"><br/>
